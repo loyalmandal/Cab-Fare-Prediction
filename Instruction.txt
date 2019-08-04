@@ -1,0 +1,9 @@
+################ INSTRUCTION ###############
+
+I have done the entire project in R Studio, so R code can be easily 
+ran in R Studio
+And Python code is developed in Jupyter Notebook, so you can use 
+Jupyter notebook to run the code.
+
+
+###############   THANK YOU #################
